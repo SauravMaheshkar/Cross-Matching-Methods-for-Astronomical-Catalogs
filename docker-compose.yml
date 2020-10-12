@@ -6,5 +6,4 @@ services:
         build:
             dockerfile: ./Dockerfile
             context: .
-        ports:
-            - "5000:5000"
+        

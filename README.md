@@ -10,7 +10,7 @@
 - [Usage](#usage)
 - [Directory tree](#directory-tree)
 - [Request](#request)
-    -[Bug](#bug)
+    - [Bug](#bug)
 - [Contribute](#contribute)
 - [License](#license)
 - [Credits](#credits)

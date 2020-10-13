@@ -1,4 +1,4 @@
-![Banner](https://github.com/SauravMaheshkar/CoxPH-Model-for-Primary-Biliary-Cirrhosis/blob/master/Banner.png)
+![Banner](https://github.com/SauravMaheshkar/Cross-Matching-Methods-for-Astronomical-Catalogs/blob/master/Banner.png)
 
 # Cross Matching Methods for Astronomical Catalogs
 

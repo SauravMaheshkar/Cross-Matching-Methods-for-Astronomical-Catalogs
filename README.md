@@ -103,7 +103,3 @@ The data for this project was taken from:
 The inspiration for this readme file came from
 - [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46#license)
 - [Navendu Pottekkat](https://github.com/navendu-pottekkat/awesome-readme/blob/master/README-template.md)
-
-Description of the CoxPH came froom
-- [Wikipedia](https://en.wikipedia.org/wiki/Proportional_hazards_model)
-- [Statsdirect](https://www.statsdirect.com/help/survival_analysis/cox_regression.htm)
